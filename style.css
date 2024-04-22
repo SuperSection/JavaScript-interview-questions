@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100vh;
+    width: 100vw;
+}
+
+.circle {
+    position: absolute;
+    border: 1px solid magenta;
+    border-radius: 50%;
+}
